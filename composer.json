@@ -1,0 +1,16 @@
+{
+    "name": "vendor/app",
+    "description": "Wild composer quest",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Baptiste Delefosse",
+            "email": "baptiste.delefosse@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
